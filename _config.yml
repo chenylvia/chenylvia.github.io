@@ -6,7 +6,7 @@ keywords: blog programming student resume technology talks
 tagline: A Netflix major with a Computer Science problem.
 logo: /images/me.jpg
 
-url: https://brennan.io
+url: https://chenylvia.github.io
 
 plugins: [jekyll-paginate]
 paginate: 10
@@ -21,7 +21,7 @@ kramdown:
   math_engine: mathjax
   hard_wrap: false
 
-exclude: ["CNAME", "README.md"]
+exclude: [README.md"]
 
 disqus: stephenbrennan
 analytics: UA-58675248-2
