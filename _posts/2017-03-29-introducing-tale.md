@@ -35,4 +35,6 @@ Tale is publicly hosted on GitHub, so go ahead and download or fork it at the [G
 
 Thanks for checking out Tale!
 
-![](/Users/chen/new/chenylvia.github.io/assets/images/WechatIMG2.jpeg)
+风景
+
+![](../assets/images/WechatIMG2.jpeg)
