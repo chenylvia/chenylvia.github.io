@@ -1,6 +1,16 @@
-# SCQA模型是什么？
+---
+layout: post
+title:  "SCQA模型是什么"
+author: "chenylvia"
+comments: true
+tags: 其他
+excerpt_separator: <!--more-->
+sticky: true
+hidden: true
 
-万事开头难，写文章也不例外。
+---
+
+万事开头难，写文章也不例外。<!--more-->
 
 很多时候我们迟迟无法下笔，认为文章的序言既不能过于简单而苍白无力，又不能掺杂太多其它信息，导致主题分散。
 
